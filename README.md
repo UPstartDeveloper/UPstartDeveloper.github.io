@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zain-train/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zainr7989@gmail.com)
 
-Welcome to my Github page! My name's Zain, I am a Software Engineer 
+Welcome to my Github page! My name's Zain, I am a Software Engineer and human being, hoping to build products that uplift others.
 
 <img align="right" alt="img" src="https://i.postimg.cc/qRdSgPv4/mugShot.png" width="50%" height="auto" />
 
@@ -34,4 +34,4 @@ Welcome to my Github page! My name's Zain, I am a Software Engineer
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Fernando Roladan](https://github.com/FernandoRoldan93) for creating your wonderful [README starter template](https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/FernandoRoldan93.md)!</sub>
+<sub>Credits to: <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for creating your wonderful [README starter template](https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/FernandoRoldan93.md)!</sub>
