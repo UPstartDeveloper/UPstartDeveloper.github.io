@@ -13,7 +13,7 @@ Welcome to my Github page! My name's Zain, I am a Software Engineer and human be
 #### 🌱 Things I am currently working on: 
 - Managing the product development team at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
-- Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse body of students learn the fundamentals of Software Product Development.
+- Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse student body learn the fundamentals of Software Product Development.
 
 #### 💪 Things I am challenging myself with:
 - Learning C/C++/C#, and all the cool stuff it can do! (AR/VR, robotics, game development, etc.)
