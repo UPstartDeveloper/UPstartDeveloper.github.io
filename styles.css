@@ -1,0 +1,18 @@
+body {
+    font-family: "palatino linotype", palatino, serif;
+    font-weight: 50;
+}
+
+#logo-element {
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.circular-image {
+    /* originally found here: https://stackoverflow.com/questions/61808278/how-do-i-make-bootstrap-image-rounded */
+    width: 80%;
+    border-radius: 75%;
+}
