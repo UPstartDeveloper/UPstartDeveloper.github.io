@@ -10,13 +10,16 @@ Welcome to my Github page! My name's Zain, I am a Software Engineer and human be
 <img align="right" alt="img" src="https://i.postimg.cc/qRdSgPv4/mugShot.png" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Managing the product development team at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
-- Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
-- Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse student body learn the fundamentals of Software Product Development.
+#### 🌱 Things I am currently working on: 🤖
+- Contributing to product design and machine learning at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
 
-#### 💪 Things I am challenging myself with:
-- Learning C/C++/C#, and all the cool stuff it can do! (AR/VR, robotics, game development, etc.)
+#### 💪 Things I am challenging myself with: 💪
+- Creating 3D environments on the Web with Three.js
+- Learning C/C++/C#, and all the cool stuff they can build! (AR/VR, game development, IoT, etc.)
+
+#### 🚀 Things I do beyond code: 🗣
+- Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
+- Peer mentoring at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco with a diverse student body.
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -24,6 +27,7 @@ Welcome to my Github page! My name's Zain, I am a Software Engineer and human be
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
