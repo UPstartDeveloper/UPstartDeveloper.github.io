@@ -7,7 +7,7 @@
 
 Welcome to my Github page! My name's Zain, I am a Software Engineer and human being, hoping to build products that uplift others.
 
-<img align="right" alt="img" src="https://cdn.filestackcontent.com/wNwsZ6qDSeiXBfXgyVmM" width="50%" height="auto" style="width: 80%; border-radius: 75%;"/>
+<img align="right" alt="img" src="https://cdn.filestackcontent.com/wNwsZ6qDSeiXBfXgyVmM" width="50%" height="auto" style="border-radius: 75%;"/>
 
 
 #### 🌱 Things I am currently working on: 🤖
