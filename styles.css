@@ -17,3 +17,11 @@ body {
 background-color: #002b36;
 
 }
+
+.bg-color-2 {
+    background-color: #073642;
+}
+
+a {
+    color: aliceblue;
+}
