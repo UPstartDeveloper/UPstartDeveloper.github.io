@@ -24,7 +24,7 @@
         <!-- Favicon -->
         <link rel="shortcut icon" href="./favicons/initials.ico" type="image/x-icon">
     </head>
-    <body>
+    <body> 
 
         <!-- NAVBAR -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -61,23 +61,95 @@
                             <h3>Contact</h3>
                         </a>
                     </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./blog/index.html">
+                            <h3>Blog</h3>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </nav>
 
         <!-- ABOUT ME -->
-        <div class="container-fluid no-padding">
+        <div class="container-fluid no-padding-horizontal">
             <div class="jumbotron">
-                <h1 class="display-4">Hey There, I'm Zain.</h1>
-                <hr class="my-1">
-                <h1 class="display-1 text-white">I am a Machine Learning Software Engineer.</h1>
+                <h1 class="display-4">Hey, I'm Zain.</h1>
+                <h1 class="display-3 text-white">I am a Machine Learning Software Engineer.</h1>
                 <hr class="my-3">
                 <h2>I believe technology should allow people to be more human, and I write code to improve the way we interact with the environment.</p>
             </div>
         </div>
 
+        <!-- Work Samples: @Carbon0 -> PTC && headsetsGoodbye -->
+        <div id="projects">
+            <div class="container">
+                <div class="row mt-5">
+                    <h1 class="text-white">Featured Projects</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <!-- @Carbon0 -->
+                        <div class="card">
+                            <img class="card-img-top" 
+                                src="https://cdn.filestackcontent.com/4wQng6EpQZ60xTh8Ow4G" 
+                                alt="Carbon0 logo"
+                                height="80%" width="60%">
+                            <div class="card-body row justify-content-center">
+                                <h5 class="card-title text-white">
+                                    <a href="https://playcarbon0.com">Carbon0 Games</a>
+                                </h5>
+                                <p class="card-text">Carbon0 is a web app that helps people build carbon negative lifestyles for themselves and their communities.</p>
+                                <p class="card-text"><em>Technologies</em>: Django, Bootstrap 4, PostgreSQL, Heroku, AWS S3, Chart.js, Django REST Framework, Travis CI</p>
+                                <div class="row btn btn-primary">
+                                    <!-- ML Blog Link -->
+                                    <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
+                                        <img class="mx-1" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png"/>
+                                    </a>
+                                    <!-- GitHub Link -->
+                                    <a href="https://github.com/Carbon0-Games/carbon0-web-app">
+                                        <img class="mx-1" src="https://img.icons8.com/fluent/48/ffffff/github.png"/>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <!-- @headsetsGoodbye -->
+                        <div class="card">
+                            <iframe class="card-img-top" width="560" 
+                                    height="300" 
+                                    src="https://www.youtube.com/embed/CFwbNuiOSX0" 
+                                    title="YouTube video player" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                            <div class="card-body row justify-content-center">
+                                <h5 class="card-title text-white">
+                                    <a href="https://zainraza.me/headsetsGoodbye/">headsetsGoodbye</a>
+                                </h5>
+                                <p class="card-text">I started headsetsGoodbye to explore empathetic technology ideas using Tensorflow.js. We're using deep computer vision to enable intuitive human-machine interaction.</p>
+                                <p class="card-text"><em>Technologies</em>: HTML, CSS, Tensorflow.js, face-api.js, Handsfree.js, and Three.js</p>
+                                <div class="row btn btn-primary">
+                                    <!-- TODO: Blog Link -->
+                                    <!--
+                                    <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
+                                        <img class="ml-1 mr-1" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png"/>
+                                    </a>
+                                    -->
+                                    <!-- GitHub Link -->
+                                    <a href="https://github.com/UPstartDeveloper/headsetsGoodbye">
+                                        <img class="mr-1" src="https://img.icons8.com/fluent/48/ffffff/github.png"/>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- High-Level Overview of Skills -->
-        <div class="container" id="skills">
+        <div class="container mt-5" id="skills">
             <div class="row">
                 <h1 class="text-white">Here's How I Can Help You:</h1>
             </div>
@@ -109,91 +181,13 @@
                         </div>
                          <p class="card-text">
                             I will help craft breakthrough online experiences for your users. Allow me to translate your project requirements 
-                            into scalable, maintainable, and highly-performant code using modern web development frameworks.
+                            into scalable, maintainable, and highly-performant code using modern web frameworks.
                         </p>
                     </div>            
                 </div>
             </div>
         </div>
         <hr>
-
-        <!-- Work Samples: @Carbon0 -> PTC && headsetsGoodbye -->
-        <div class="bg-color-2" id="projects">
-            <hr>
-            <div class="container">
-                <div class="row mt-5">
-                    <h1 class="text-white">Featured Projects</h1>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <!-- @Carbon0 -->
-                        <div class="card bg-color-2">
-                            <img class="card-img-top" 
-                                src="https://cdn.filestackcontent.com/4wQng6EpQZ60xTh8Ow4G" 
-                                alt="Carbon0 logo"
-                                height="80%" width="60%">
-                            <div class="card-body row justify-content-center">
-                                <h5 class="card-title text-white">
-                                    <a href="https://playcarbon0.com">Carbon0 Games</a>
-                                </h5>
-                                <p class="card-text">Carbon0 is a web app that helps people build carbon negative lifestyles for themselves and their communities.</p>
-                                <p class="card-text"><em>Technologies</em>: Django, Bootstrap 4, PostgreSQL, Heroku, AWS S3, Chart.js, Django REST Framework, Travis CI</p>
-                                <div class="row btn btn-primary">
-                                    <!-- ML Blog Link -->
-                                    <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
-                                        <img class="mx-1" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png"/>
-                                    </a>
-                                    <!-- GitHub Link -->
-                                    <a href="https://github.com/Carbon0-Games/carbon0-web-app">
-                                        <img class="mx-1" src="https://img.icons8.com/fluent/48/ffffff/github.png"/>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <!-- @headsetsGoodbye -->
-                        <div class="card bg-color-2">
-                            <iframe class="card-img-top" width="560" 
-                                    height="300" 
-                                    src="https://www.youtube.com/embed/9rI0QeCY-Qc" 
-                                    title="YouTube video player" 
-                                    frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                            </iframe>
-                            <div class="card-body row justify-content-center">
-                                <h5 class="card-title text-white">
-                                    <a href="https://zainraza.me/headsetsGoodbye/">headsetsGoodbye</a>
-                                </h5>
-                                <p class="card-text">I started headsetsGoodbye to explore empathetic technology ideas using Tensorflow.js. We're using deep computer vision to enable intuitive human-machine interaction.</p>
-                                <p class="card-text"><em>Technologies</em>: HTML, CSS, Tensorflow.js, face-api.js, Handsfree.js, and Three.js</p>
-                                <div class="row btn btn-primary">
-                                    <!-- TODO: Blog Link -->
-                                    <!--
-                                    <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
-                                        <img class="ml-1 mr-1" src="https://img.icons8.com/color/48/ffffff/medium-monogram.png"/>
-                                    </a>
-                                    -->
-                                    <!-- GitHub Link -->
-                                    <a href="https://github.com/UPstartDeveloper/headsetsGoodbye">
-                                        <img class="mr-1" src="https://img.icons8.com/fluent/48/ffffff/github.png"/>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-end">
-                    <div class="col-md-4"></div>
-                    <div class="col-md-4"></div>
-                    <div class="col-md-4">
-                        <a href="https://www.makeschool.com/portfolio/zain-raza">
-                            <h3>>> More Projects from Zain</h3>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!-- About Me -->
         <div id="personal-section" class="container mb-5 mt-5">
@@ -210,20 +204,23 @@
                 <div class="col-md-8">
                     <!-- Intro (one-sentence) -->
                     <h4 class="mt-4">
-                        Greetings! My name's Zain Raza, I am an incoming Software Development Intern at PTC.
+                        Hello again! My name's Zain Raza, I am an incoming Software Development Intern at PTC.
                         <br><br>
-                        This summer I will be using my web development skills to modernize Windchill, 
-                        a web-based SaaS product which helps global industrial manufacturers better 
-                        manage collaboration between remote R&D teams. <br>
-                        Whether they are designing a more fuel-efficient HVAC or a longer-lasting 
-                        lithium-ion battery, I believe manufacturers - PTC’s customers - 
-                        work on behalf of humanity, trailblazing a way for us out of extinction. 
-                        <br> <br>
+                        Before PTC I joined Make School, an accelerated two-year program where I am pursuing a Bachelor's of Science in Applied Computer Science. 
+                        In school I built a <a href="https://www.makeschool.com/portfolio/zain-raza">portfolio of projects</a> around impact issues using my web development skills.
+                        During my senior year I built the backend and machine learning features while working with the team at <a href="https://playcarbon0.com/">Carbon0 Games</a>, which introduced me to how data-driven decisions can help tackle climate change.
+                        <br><br>
+                        This summer I will be using my web development skills to modernize <a href="https://www.ptc.com/en/products/windchill">Windchill</a>, 
+                        a web-based SaaS product by PTC which helps global industrial manufacturers better 
+                        trailblaze a way for us out of extinction. 
+
                         I hope to contribute to this industry by making it more sustainable as well as - 
                         well, <em>industrious</em> - through machine learning, so that our species can have products to both live better 
-                        and better tackle climate change. Oh, and for fun I produce a 
+                        and better tackle climate change. 
+                        <br><br>
+                        Oh, and for hobbies I enjoy reading, playing basketball, and producing a podcast about technology,
                         <a href="https://anchor.fm/maker-nation">
-                            podcast about technology.
+                            In the Making.
                         </a>
                     </h4> 
                 </div>

@@ -2,7 +2,7 @@ body {
     font-family: "palatino linotype", palatino, serif;
 }
 
-.no-padding {
+.no-padding-horizontal {
     padding-left: 0;
     padding-right: 0;
 }
