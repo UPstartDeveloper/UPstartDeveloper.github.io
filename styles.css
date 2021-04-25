@@ -2,7 +2,7 @@ body {
     font-family: "palatino linotype", palatino, serif;
 }
 
-.no-padding {
+.no-padding-horizontal {
     padding-left: 0;
     padding-right: 0;
 }
@@ -24,4 +24,8 @@ background-color: #002b36;
 
 ul {
     list-style-type: none;
+}
+
+.viewport-height {
+    min-height: 100vh;
 }
