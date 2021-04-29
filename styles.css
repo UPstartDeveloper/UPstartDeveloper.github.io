@@ -31,6 +31,9 @@ ul {
     min-height: 100vh;
 }
 
+.video{
+    height: "100%";
+}
 .icon{
     
     width: 100px;
