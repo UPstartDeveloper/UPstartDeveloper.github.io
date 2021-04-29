@@ -24,8 +24,15 @@ background-color: #002b36;
 
 ul {
     list-style-type: none;
+    align-items: center;
 }
 
 .viewport-height {
     min-height: 100vh;
+}
+
+.icon{
+    
+    width: 100px;
+    height: 100px;
 }
