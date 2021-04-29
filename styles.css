@@ -29,3 +29,20 @@ ul {
 .viewport-height {
     min-height: 100vh;
 }
+
+.medium {
+    margin-top: 5px;
+}
+.github{
+    margin-top: 4px;
+}
+
+.gmail{
+    margin-top: -2px;
+}
+
+.sm-medium {
+    width: 45px;
+    height: 45px;
+    margin-top: 3px;
+}
