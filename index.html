@@ -25,7 +25,50 @@
         <link rel="shortcut icon" href=".//assets/favicons/initials.ico" type="image/x-icon">
     </head>
     <body> 
+        <!-- NAVBAR -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
+            <!-- Brandmark image -->
+            <a class="navbar-brand justify-content-start" href="./">
+                <h1 class="mb-0 h1">ZR</h1>
+            </a>
+
+            <!-- Hamburger Menu for Rest of Section Links-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navToggle" aria-controls="navToggle" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse ml-auto justify-content-end" id="navToggle">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="../index.html#projects">
+                            <h3>Projects</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#skills">
+                            <h3>Skills</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#personal-section">
+                            <h3>About Me</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#contact">
+                            <h3>Contact</h3>
+                        </a>
+                    </li>
+                    <!-- <li class="nav-item active">
+                        <a class="nav-link" href="./blog/index.html">
+                            <h3>Blog</h3>
+                        </a>
+                    </li> -->
+                </ul>
+            </div>
+        </nav>
+        
         <!-- ABOUT ME -->
         <div class="container-fluid no-padding-horizontal">
             <div class="jumbotron">
@@ -56,7 +99,7 @@
                                 </h5>
                                 <p class="card-text">Carbon0 is a web app that helps people build carbon negative lifestyles for themselves and their communities.</p>
                                 <p class="card-text"><em>Technologies</em>: Django, Bootstrap 4, PostgreSQL, Heroku, AWS S3, Chart.js, Django REST Framework, Travis CI</p>
-                                <div class="row btn btn-primary">
+                                <div class="row">
                                     <!-- ML Blog Link -->
                                     <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
                                         <img class="mx-1 sm-medium" src="assets/logo/circled-m.png"/>
@@ -64,6 +107,7 @@
                                     <!-- GitHub Link -->
                                     <a href="https://github.com/Carbon0-Games/carbon0-web-app">
                                         <img class="mx-1" src="assets/logo/github.png"/>
+
                                     </a>
                                 </div>
                             </div>
@@ -72,20 +116,18 @@
                     <div class="col-md-6">
                         <!-- @headsetsGoodbye -->
                         <div class="card">
-                            <iframe class="card-img-top" width="560" 
-                                    height="300" 
-                                    src="https://www.youtube.com/embed/CFwbNuiOSX0" 
-                                    title="Roberto: The Empathetic Robot | UX Demo #2" 
-                                    frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            <iframe class="card-img-top giphy-embed" width="560" 
+                                    height="300" src="https://giphy.com/embed/FQxg2Lf3hi4nM5lT4Y" 
+                                    frameBorder="0" 
+                                    allowFullScreen>
                             </iframe>
                             <div class="card-body row justify-content-center">
                                 <h5 class="card-title text-white">
                                     <a href="https://zainraza.me/headsetsGoodbye/">headsetsGoodbye</a>
                                 </h5>
-                                <p class="card-text">I started headsetsGoodbye to explore empathetic technology ideas using Tensorflow.js. We're using deep computer vision to enable intuitive human-machine interaction.</p>
+                                <p class="card-text">I started headsetsGoodbye to explore empathetic technology ideas using Tensorflow.js. We're using deep computer vision to enable intuitive human-machine interaction (GIF source: <a href="https://giphy.com/gifs/FQxg2Lf3hi4nM5lT4Y">GIPHY</a>).</p>
                                 <p class="card-text"><em>Technologies</em>: HTML, CSS, Tensorflow.js, face-api.js, Handsfree.js, and Three.js</p>
-                                <div class="row btn btn-primary">
+                                <div class="row">
                                     <!-- TODO: Blog Link -->
                                     <!--
                                     <a href="https://medium.com/dev-genius/how-to-deploy-keras-models-to-production-beginners-welcome-1fbfab19d3f6?source=friends_link&sk=8b346943db0c82bfc94c1ce689cb6c5f" class="">
@@ -95,6 +137,7 @@
                                     <!-- GitHub Link -->
                                     <a href="https://github.com/UPstartDeveloper/headsetsGoodbye">
                                         <img class="mr-1" src="assets/logo/github.png"/>
+
                                     </a>
                                 </div>
                             </div>
@@ -115,7 +158,7 @@
                 <div class="col-md-4 mx-3">
                     <div class="card">
                         <div class="card-img">
-                            <img class="my-3" height="60%" src="https://img.icons8.com/wired/64/ffffff/learning.png">
+                            <img class="icon" src="https://img.icons8.com/bubbles/100/000000/learning.png"/>
                         </div>
                         <div class="card-title">
                             <h3 class="text-white">Machine Learning</h3>
@@ -130,7 +173,7 @@
                 <div class="col-md-4 mx-3">
                     <div class="card">
                         <div class="card-img">
-                            <img class="my-3"  width="18%" src="https://img.icons8.com/ios-filled/100/ffffff/console.png"/>
+                            <img class="icon" src="https://img.icons8.com/bubbles/100/000000/console.png"/>
                         </div>
                         <div class="card-title">
                             <h3 class="text-white">Backend Web</h3>
