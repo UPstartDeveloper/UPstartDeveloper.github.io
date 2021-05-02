@@ -14,7 +14,7 @@ body {
 }
 
 .card {
-background-color: #002b36;
+    background-color: #002b36;
 
 }
 
@@ -24,7 +24,6 @@ background-color: #002b36;
 
 ul {
     list-style-type: none;
-    align-items: center;
 }
 
 .viewport-height {
@@ -34,11 +33,11 @@ ul {
 .medium {
     margin-top: 5px;
 }
-.github{
+.github {
     margin-top: 4px;
 }
 
-.gmail{
+.gmail {
     margin-top: -2px;
 }
 
@@ -46,5 +45,4 @@ ul {
     width: 45px;
     height: 45px;
     margin-top: 3px;
-
 }
