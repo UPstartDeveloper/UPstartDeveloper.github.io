@@ -31,11 +31,20 @@ ul {
     min-height: 100vh;
 }
 
-.video{
-    height: "100%";
+.medium {
+    margin-top: 5px;
 }
-.icon{
-    
-    width: 100px;
-    height: 100px;
+.github{
+    margin-top: 4px;
+}
+
+.gmail{
+    margin-top: -2px;
+}
+
+.sm-medium {
+    width: 45px;
+    height: 45px;
+    margin-top: 3px;
+
 }
