@@ -12,7 +12,7 @@ Welcome to the repo for my portfolio site, [ZainRaza.me](https://zainraza.me/)! 
 
 ## Looking for Contributions!
 If you have any feedback or see a potential UI/UX improvement, please don't hesitate to open an Issue on this repo.
-If you end up merging a PR on this project, don't forget to add yourself to the list on [CONTRIBUTORS.md](./CONTRIBUTORS.md]!
+If you end up merging a PR on this project, don't forget to add yourself to the list on [CONTRIBUTORS.md](./CONTRIBUTORS.md)!
 
 
 
