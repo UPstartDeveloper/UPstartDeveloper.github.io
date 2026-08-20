@@ -46,3 +46,13 @@ ul {
     height: 45px;
     margin-top: 3px;
 }
+
+.rets-form {
+    width: 100%;
+    max-width: 690px;
+    height: 1982px;
+    border: 0;
+    background-color: #ffffff;
+    display: block;
+    margin: 0 auto;
+}
